@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmadaBerry
 - 👀 I’m interested in technical writing & devops cloud engineering
-- 🌱 I’m currently learning aws
+- 🌱 I enjoy learning and creating 
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me maia11889@gmail.com
 
